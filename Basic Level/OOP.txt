@@ -18,5 +18,5 @@ Polymorphism:?{
 }
 
 Abstraction:?{
-  
+  simplifying complex systems by hiding the details and exposing the necessary functions
 }
