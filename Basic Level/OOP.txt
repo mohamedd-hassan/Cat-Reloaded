@@ -1,0 +1,22 @@
+OOP?:{
+ 1. Inheritence
+ 2. Encapsulation
+ 3. Polymorphism
+ 4. Abstraction
+}
+
+Inheritence?:{
+  like real life, inheritence lets classes inherit attributes(variables) and functions from parent classes to avoid having to redefine and allow reusability and extending the function of classes
+}
+
+Encapsulation:?{
+  the mechanism that binds together code and the data it manipulates, and keeps both safe from outside interference and misuse
+}
+
+Polymorphism:?{
+  one interface, many methods. which means it is possible to define a general use/simple interface that can be used by multiple classes that each apply it to their specific situation
+}
+
+Abstraction:?{
+  simplifying complex systems by hiding the details and exposing the necessary functions
+}
